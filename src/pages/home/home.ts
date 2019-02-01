@@ -1,5 +1,6 @@
 import { Component } from "@angular/core";
 import { NavController } from "ionic-angular";
+// Import Http Client & Observable
 import { HttpClient } from "@angular/common/http";
 import { Observable } from "rxjs/Observable";
 
